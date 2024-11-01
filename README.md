@@ -4,7 +4,7 @@ This project contains automated tests for login functionality on `https://the-in
 
 ## Project Structure
 
-- **cypress/e2e/**: Contains test cases for three scenerios
+- **e2e/**: Contains test cases for three scenerios
   ## positive-login.cy.js,
   ## negative-login.cy.js, and
   ## exception-Login.cy.js
